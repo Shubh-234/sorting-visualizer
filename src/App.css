@@ -1,0 +1,33 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+h1 {
+  color: #61dafb;
+  margin-bottom: 20px;
+}
+
+.array-container {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  height: 500px;
+  margin: 0 5%;
+}
+
+.array-bar {
+  background-color: teal;
+  width: 10px;
+  margin: 0 1px;
+}
+
+button {
+  margin: 20px;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #61dafb;
+  border: none;
+  cursor: pointer;
+}
